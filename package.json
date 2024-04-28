@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "openai": "^4.38.5",
+    "uuid": "^9.0.1"
+  }
+}
